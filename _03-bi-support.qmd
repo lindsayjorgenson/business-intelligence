@@ -1,0 +1,288 @@
+#  {#support-we-offer .background-title data-menu-title="How can Research Support You?"}
+[What can the business intelligence team do **for you**?]{.section-header}
+
+
+
+##  {#support-static-viz data-menu-title="Static Data Visualization"}
+[**Support** \| Static Data Visualization]{.slide-header} <br><br><br><br>
+-   give three to five examples of static data visualization
+
+
+
+##  {#support-interactive-viz data-menu-title="Interactive Data Visualization"}
+[**Support** \| Interactive Data Visualization]{.slide-header} <br><br><br><br>
+
+
+
+##  {#support-dashboards data-menu-title="Dashboards"}
+[**Support** \| Dashboards]{.slide-header} <br><br><br><br>
+
+- discovery
+- wireframing 
+- development
+- user testing 
+- accessibility
+
+
+
+##  {#support-interactives data-menu-title="Interactives"}
+[**Support** \| Data Storytelling]{.slide-header} <br><br>
+
+:::{.absolute left=40}
+```{=html}
+<style>
+    #wrap { width: 1500px; 
+            height: 750px; 
+            position:relative;}
+    #frame { -ms-zoom: 0.75; 
+             -webkit-transform: scale(0.75); 
+             -webkit-transform-origin: 0 0;
+             padding-left: -30px;
+             box-shadow: 0px 14px 15px 2px rgba(0,0,0,.3);
+             border-top: 2px solid white}
+</style>
+<div id="wrap">
+<iframe id="frame" src="https://telehealthsurvey.netlify.app/#/telehealth-survey" width="100%" height="100%" ></iframe>
+</div>
+```
+:::
+
+
+##  {data-menu-title="Data Viz Workgroup" auto-animate=true auto-animate-easing="ease-in-out"}
+[**Next** \| Data Viz Workgroup]{.slide-header} <br><br><br>
+
+
+::: {.r-hstack}
+:::columns
+:::{.column width="25%"}
+::: {data-id="box1" auto-animate-delay="0" style="background: #3FA06E; width: 350px; height: 350px; border-radius: 550px;"}
+```{r}
+telehealth_uses <- data.frame(
+  uses = c(
+    "Something", 
+    "Another Thing",
+    "And Something Else"
+    ),
+  n = c(7, 6, 5)
+)
+```
+
+```{r}
+create_fake(
+  data = telehealth_uses,
+  my_x = "uses",
+  my_y = "n",
+  y_text = "# of Agencies",
+  title_text = "Super Cool Chart About Public Health Agencies",
+  my_colors = "#fff",
+  caption_text = "<b>Source:</b> ASTHO",
+  my_theme = silly_theme_3
+)
+```
+
+:::
+:::
+
+:::{.column width="12.5%"}
+:::
+
+:::{.column width="25%"}
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #C65227; width: 350px; height: 350px; border-radius: 550px;"}
+```{r}
+create_fake(
+  data = telehealth_uses,
+  my_x = "uses",
+  my_y = "n",
+  y_text = "Number",
+  title_text = "Super cool chart about health agencies (n=10).",
+  my_colors = "#fff",
+  caption_text = "<b>Source:</b> Association for State and Territorial Health Officials.",
+  my_theme = silly_theme_2
+)
+```
+:::
+:::
+
+:::{.column width="12.5%"}
+:::
+
+:::{.column width="25%"}
+::: {data-id="box3" auto-animate-delay="0.2" style="background: #244371; width: 350px; height: 350px; border-radius: 550px;"}
+```{r}
+create_fake(
+  data = telehealth_uses,
+  my_x = "uses",
+  my_y = "n",
+  y_text = "",
+  title_text = "Super Cool Chart About U.S. and Island Area Health Agencies",
+  my_colors = "#fff",
+  caption_text = "<b>Source:</b> A Survey that ASTHO did.",
+  my_theme = silly_theme_1,
+  labels_enabled = TRUE
+)
+```
+:::
+:::
+:::
+:::
+<br><br>
+<center>
+[Goal 1: Coordinate data visualization across ASTHO.]{.text-lg-c}
+</center>
+
+
+## {auto-animate=true auto-animate-easing="ease-in-out"}
+[**Next** \| Data Viz Workgroup]{.slide-header} <br><br><br>
+
+
+::: {.r-stack}
+::: {data-id="box1" style="background: #3FA06E; width: 350px; height: 350px; border-radius: 350px;"}
+```{r}
+create_fake(
+  data = telehealth_uses,
+  my_x = "uses",
+  my_y = "n",
+  y_text = "# of Agencies",
+  title_text = "Super Cool Chart About Public Health Agencies",
+  my_colors = "#fff",
+  caption_text = "<b>Source:</b> ASTHO",
+  my_theme = silly_theme_3
+)
+```
+:::
+
+::: {data-id="box2" style="background: #C65227; width: 350px; height: 350px; border-radius: 350px;"}
+```{r}
+create_fake(
+  data = telehealth_uses,
+  my_x = "uses",
+  my_y = "n",
+  y_text = "Number",
+  title_text = "Super cool chart about health agencies (n=10).",
+  my_colors = "#fff",
+  caption_text = "<b>Source:</b> Association for State and Territorial Health Officials.",
+  my_theme = silly_theme_2
+)
+```
+:::
+
+::: {data-id="box3" style="background: #244371; width: 350px; height: 350px; border-radius: 350px;"}
+```{r}
+create_fake(
+  data = telehealth_uses,
+  my_x = "uses",
+  my_y = "n",
+  y_text = "",
+  title_text = "Super Cool Chart About U.S. and Island Area Health Agencies",
+  my_colors = "#fff",
+  caption_text = "<b>Source:</b> A Survey that ASTHO did.",
+  my_theme = silly_theme_1,
+  labels_enabled = TRUE
+)
+```
+
+:::
+:::
+
+<br><br>
+<center>
+[Goal 1: Coordinate data visualization across ASTHO.]{.text-lg-c}
+</center>
+
+##  {data-menu-title="Data Viz Workgroup" auto-animate=true auto-animate-easing="ease-in-out"}
+[**Next** \| Data Viz Workgroup]{.slide-header} <br><br><br>
+
+
+::: {.r-hstack}
+:::columns
+:::{.column width="25%"}
+::: {data-id="box1" auto-animate-delay="0" style="background: #244371; width: 350px; height: 350px; border-radius: 550px;"}
+
+```{r}
+create_fake(
+  data = telehealth_uses,
+  my_x = "uses",
+  my_y = "n",
+  y_text = "",
+  title_text = "Super Cool Chart About U.S. and Island Area Health Agencies",
+  my_colors = "#fff",
+  caption_text = "<b>Source:</b> A Survey that ASTHO did.",
+  my_theme = silly_theme_1,
+  labels_enabled = TRUE
+)
+```
+
+:::
+:::
+
+:::{.column width="12.5%"}
+:::
+
+:::{.column width="25%"}
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #244371; width: 350px; height: 350px; border-radius: 550px;"}
+```{r}
+create_fake(
+  data = telehealth_uses,
+  my_x = "uses",
+  my_y = "n",
+  y_text = "",
+  title_text = "Super Cool Chart About U.S. and Island Area Health Agencies",
+  my_colors = "#fff",
+  caption_text = "<b>Source:</b> A Survey that ASTHO did.",
+  my_theme = silly_theme_1,
+  labels_enabled = TRUE
+)
+```
+:::
+:::
+
+:::{.column width="12.5%"}
+:::
+
+:::{.column width="25%"}
+::: {data-id="box3" auto-animate-delay="0.2" style="background: #244371; width: 350px; height: 350px; border-radius: 550px;"}
+```{r}
+create_fake(
+  data = telehealth_uses,
+  my_x = "uses",
+  my_y = "n",
+  y_text = "",
+  title_text = "Super Cool Chart About U.S. and Island Area Health Agencies",
+  my_colors = "#fff",
+  caption_text = "<b>Source:</b> A Survey that ASTHO did.",
+  my_theme = silly_theme_1,
+  labels_enabled = TRUE
+)
+```
+:::
+:::
+:::
+:::
+
+<br><br>
+<center>
+[Goal 2: Build capacity for data visualization work.]{.text-lg-c}
+</center>
+
+
+##  {#next-app data-menu-title="Data Visualization Generator"}
+[**Next** \| Data Viz App for Staff]{.slide-header} <br>
+
+<center>
+:::{.r-stack}
+
+:::{}
+![](images/generator-1.png){fig-alt="Image showing a mock up digital illustration of the proposed dashboard generator. Map tab highlighted." width=70%}
+:::
+
+:::{.fragment .fade-in}
+![](images/generator-2.png){fig-alt="Image showing a mock up digital illustration of the proposed dashboard generator. Map tab highlighted." width=70%}
+:::
+
+:::{.fragment .fade-in}
+![](images/generator-3.png){fig-alt="Image showing a mock up digital illustration of the proposed dashboard generator. Map tab highlighted." width=70%}
+:::
+
+:::
+</center>
+

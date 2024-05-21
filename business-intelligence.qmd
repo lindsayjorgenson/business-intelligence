@@ -1,0 +1,54 @@
+---
+author: Lindsay Jorgenson
+engine: knitr
+logo: images/logo.png
+format:
+  revealjs: 
+    theme: [default, my_styles.scss]
+    hash-type: number
+    auto-animate-easing: ease-in-out
+    auto-animate-unmatched: false
+    auto-animate-duration: 0.8
+    width: 1280
+    height: 720
+    include-in-header:
+      text: <script type="text/javascript" src="script.js"></script>
+    resources: 
+    - "*.mp3"
+    - "*.m4a"
+---
+
+##  {#astho-bi data-menu-title="Business Intelligence at ASTHO" background-video="programming.mp4" background-size="110%"}
+
+[What can Business Intelligence do for you?]{.title} [May 2024]{.subtitle-sm}
+
+<!-- Insert R Scripts -->
+
+```{r}
+source("R/01-load.R")
+source("R/02-clean.R")
+source("R/03-func.R")
+```
+
+<!-- Insert Slides -->
+
+{{< include _01-bi-overview.qmd >}}
+
+{{< include _03-bi-support.qmd >}}
+
+
+
+
+#  {#thank-you data-menu-title="Let's do great things together!"}
+
+:::{.absolute left=600 top=-100}
+```{=html}
+<iframe src="https://giphy.com/embed/QYjlZfTzpo9l3x7ltU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+```
+:::
+
+:::{.absolute left=50 top=300}
+[Let's do great things together!]{.section-header-2}
+<br>
+<audio controls src="sound/song.m4a"></audio>
+:::

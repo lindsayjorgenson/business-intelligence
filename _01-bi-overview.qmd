@@ -1,0 +1,191 @@
+<!-- What is BI Section -->
+
+#  {#bi .background-title data-menu-title="Business Intelligence at ASTHO"}
+
+##  {#bi-who data-menu-title="Who Am I?"}
+
+[**Business Intelligence** \| Who Am I?]{.slide-header} <br><br><br>
+
+::: columns
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+```{=html}
+<iframe src="https://giphy.com/embed/QYjlZfTzpo9l3x7ltU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+```
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+```{=html}
+<iframe src="https://giphy.com/embed/SUtvUAbKeBXiVdqCMB" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+```
+:::
+
+::: {.column width="5%"}
+:::
+:::
+
+
+##  {auto-animate="true" #bi-who-2 data-menu-title="Who are we?"}
+
+[**Business Intelligence** \| Who Are We?]{.slide-header}
+
+
+<br> <br> <br> <br> 
+
+![](images/research_team.png){fig-alt="Photos of ASTHO's research team. Miriam Naiman-Sessions, Director. Elizabeth Woods, Senior Analyst. P'Ashe Jones, Senior Analyst." width="100%"}
+
+##  {auto-animate="true" data-menu-title="Leadership"}
+
+[**Business Intelligence** \| Who Are We?]{.slide-header}
+
+<br> <br>
+
+![](images/research_team_1.png){fig-alt="Photos of ASTHO's research team. Miriam Naiman-Sessions, Director. Elizabeth Woods, Senior Analyst. P'Ashe Jones, Senior Analyst." width="100%"}
+
+![](images/research_team.png){fig-alt="Photos of ASTHO's research team. Miriam Naiman-Sessions, Director. Elizabeth Woods, Senior Analyst. P'Ashe Jones, Senior Analyst." width="100%"}
+
+::: {.fragment .fade-in fragment-index="3"}
+![](images/firby.gif){.absolute fig-alt="Image of a dancing Firby toy, identified as a mascot for the team." width="15%" top="100" left="40"}
+:::
+
+
+##  {#bi-what data-menu-title="What is Business Intelligence?"}
+
+[**Business Intelligence** \| What is Business Intelligence?]{.slide-header} 
+
+<br><br><br><br><br><br>
+
+<center>
+:::{class="pad"}
+[Business intelligence is strategically using data to inform decision making.]{.text-c-large}
+:::
+</center>
+
+
+##  {#bi-what-2 data-menu-title="BI at ASTHO"}
+[**Business Intelligence** \| Core Components of Business Intelligence]{.slide-header} <br><br><br>
+
+<center>
+<br><br><br><br><br><br><br><br>
+
+:::{.r-stack}
+:::{.fragment .fade-in-then-out}
+![](images/step1.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=20}
+[**Coordinated data collection and documented datasets**]{.text-c}
+:::
+
+<br>
+
+:::{.fragment .fade-in-then-out}
+![](images/step2.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=20}
+[**Integrated and centrally housed datasets**]{.text-c}
+:::
+
+<br>
+
+:::{.fragment .fade-in-then-out}
+![](images/step3.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=20}
+[**Key metrics that are used to answer operations and program questions**]{.text-c}
+:::
+
+
+:::{.fragment .fade-in-then-out}
+![](images/step4.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=20}
+[**Use data science and analytics to uncover insights and predict needs**]{.text-c}
+:::
+
+:::{.fragment .fade-in-then-out}
+![](images/step5.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=20}
+[**Use data science and analytics to uncover insights and predict needs**]{.text-c}
+:::
+
+<br>
+
+:::{.fragment .fade-in-then-out}
+![](images/step6.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=20}
+[**Automated reports and dashboards that make insights accessible**]{.text-c}
+:::
+
+:::
+
+</center>
+
+##  {#bi-assumptions data-menu-title="BI at ASTHO"}
+[**Business Intelligence** \| Assumptions for Success]{.slide-header} <br><br>
+
+:::{class="pad-10"}
+
+:::{.fragment .fade-in-then-semi-out}
+* A data-rich culture that values data-driven decision making 
+:::
+
+:::{.fragment .fade-in-then-semi-out}
+* Staff with technical skills spanning computer science, data science, data visualization, evaluation, data utilization, (+) 
+:::
+
+:::{.fragment .fade-in-then-semi-out}
+* Capacity to build a sustainable data infrastructure 
+:::
+
+:::{.fragment .fade-in-then-semi-out}
+* Leadership and staff buy-in and cross-agency utilization
+:::
+
+:::{.fragment .fade-in}
+* **A team to lead this effort in a deeply collaborative way**
+:::
+:::
+
+
+##  {#bi-our-role data-menu-title="What is Business Intelligence?"}
+
+[**Business Intelligence** \| The Role of Our Team]{.slide-header} 
+
+<br><br><br><br><br><br>
+
+<center>
+:::{class="pad"}
+[The business intelligence team exists to **align** and **grow** ASTHO's business intelligence work.]{.text-c-large}
+:::
+</center>
+
+
+##  {#bi-our-role-2 data-menu-title="BI at ASTHO"}
+
+[**Business Intelligence** \| The Role of Our Team]{.slide-header} <br><br><br>
+
+<br> <br> <br> <br> <br> <br> <br> <br>
+
+:::{.r-stack}
+
+:::{.fragment .fade-in-then-out}
+[Bring this work into alignment by developing a comprehensive data strategy]{.text-c}
+:::
+
+:::{.fragment .fade-in}
+[Support...?]{.text-c}
+:::
+:::
+
+
+
+
+##  {#bi-workgroup data-menu-title="The Data Workgroup"}
+
+[**Business Intelligence** \| Data Workgroup]{.slide-header} <br><br>
+
+<center>
+![](images/steering_committee.png){fig-alt="headshots of all staff on the data steering committee, including: Kyle Bogart, Senior Director, Performance Excellence; Corey Hughley, Senior Director, Information Technology; Lindsay Jorgenson, Director, Business Intelligence; Leanne Lasher, Senior Director, 
+Research and Business Intelligence; Emily Peterman, Senior Director, Evaluation; Heidi Satter, Director, Web and Data Solutions; and Suja Shunmugavelu, Senior Director, Engagement." width=80%}
+</center>
+
+
+
+##  {#next-discovery data-menu-title="Discovery"}
+[**Business Intelligence** \| Discovery]{.slide-header} <br><br><br>
