@@ -50,7 +50,7 @@
 [**Support** \| Dashboards]{.slide-header} <br><br>
 
 <center>
-![](images/process.png){fig-alt="A visual flow chart displaying the 5 steps of the dashboard development process, with mentions of where two current products are at in the process." width=70%}
+![](images/process.png){fig-alt="A visual flow chart displaying the 5 steps of the dashboard development process, with mentions of where two current products are at in the process." width=90%}
 </center>
 
 
@@ -94,10 +94,10 @@
 <center>
 ![](images/viz_group.png){fig-alt="Headshots of Paris Harper-Hardy, Director of Evaluation and Assessment, along with Lindsay Jorgenson and Madoc Marshall." width=70%}
 <br><br>
-[Goal 1: Coordinate data visualization across ASTHO.]{.text-c-md}
+[**Goal 1:** Coordinate data visualization across ASTHO.]{.text-c-md}
 
 
-[Goal 2: Build capacity for data visualization work.]{.text-c-md}
+[**Goal 2:** Build capacity for data visualization work.]{.text-c-md}
 </center>
 
 
