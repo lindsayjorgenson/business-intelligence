@@ -35,7 +35,7 @@
 
 ##  {auto-animate="true" #bi-who-2 data-menu-title="Who are we?"}
 
-[**Business Intelligence** \| Who Is the Business Intelligence Team?]{.slide-header}
+[**Business Intelligence** \| Who is the Business Intelligence Team?]{.slide-header}
 
 
 <br> <br> <br> <br> 
@@ -44,7 +44,7 @@
 
 ##  {auto-animate="true" data-menu-title="Leadership"}
 
-[**Business Intelligence** \| Who Is the Business Intelligence Team?]{.slide-header}
+[**Business Intelligence** \| Who is the Business Intelligence Team?]{.slide-header}
 
 <br> <br>
 
