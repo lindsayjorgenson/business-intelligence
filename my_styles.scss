@@ -63,8 +63,9 @@ details>summary {
   line-height: 1.3em !important;
   font-weight: 500;
   position: absolute;
-  bottom: 405px;
-  left: 800px;
+  bottom: 305px;
+  left: 100px;
+  right: 500px;
   text-align: left;
 }
 
@@ -74,8 +75,9 @@ details>summary {
   font-size: .8em !important;
   font-weight: 300;
   position: absolute;
-  bottom: 50px;
-  left: 800px;
+  bottom: 105px;
+  left: 100px;
+  right: 500px;
   text-align: left;
 }
 
@@ -84,8 +86,9 @@ details>summary {
   font-size: .7em !important;
   font-weight: 400;
   position: absolute;
-  bottom: 330px;
-  left: 800px;
+  bottom: 205px;
+  left: 100px;
+  right: 500px;
   text-align: left;
 }
 
@@ -169,11 +172,20 @@ details>summary {
   display: block !important;
 }
 
+.reveal .text-c-md {
+  text-align: center !important;
+  color: $blue;
+  font-size: 1.0em !important; 
+  font-weight: 400;
+  line-height: 1.4em !important;
+  display: block !important;
+}
+
 .reveal .text-c-large {
   text-align: center !important;
   color: $blue;
   font-size: 1.4em !important; 
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.2em !important;
   display: block !important;
 }

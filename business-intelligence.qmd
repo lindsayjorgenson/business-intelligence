@@ -18,7 +18,7 @@ format:
     - "*.m4a"
 ---
 
-##  {#astho-bi data-menu-title="Business Intelligence at ASTHO" background-video="programming.mp4" background-size="110%"}
+##  {#astho-bi data-menu-title="Business Intelligence at ASTHO"}
 
 [What can Business Intelligence do for you?]{.title} [May 2024]{.subtitle-sm}
 

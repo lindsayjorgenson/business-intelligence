@@ -1,6 +1,8 @@
 <!-- What is BI Section -->
 
 #  {#bi .background-title data-menu-title="Business Intelligence at ASTHO"}
+[The who and what of business intelligence]{.section-header}
+
 
 ##  {#bi-who data-menu-title="Who Am I?"}
 
@@ -33,7 +35,7 @@
 
 ##  {auto-animate="true" #bi-who-2 data-menu-title="Who are we?"}
 
-[**Business Intelligence** \| Who Are We?]{.slide-header}
+[**Business Intelligence** \| Who Is the Business Intelligence Team?]{.slide-header}
 
 
 <br> <br> <br> <br> 
@@ -42,7 +44,7 @@
 
 ##  {auto-animate="true" data-menu-title="Leadership"}
 
-[**Business Intelligence** \| Who Are We?]{.slide-header}
+[**Business Intelligence** \| Who Is the Business Intelligence Team?]{.slide-header}
 
 <br> <br>
 
@@ -67,6 +69,15 @@
 :::
 </center>
 
+##  {#bi-workgroup data-menu-title="The Data Workgroup"}
+
+[**Business Intelligence** \| Who is Business Intelligence?]{.slide-header} <br><br>
+
+<center>
+![](images/steering_committee.png){fig-alt="headshots of all staff on the data steering committee, including: Kyle Bogart, Senior Director, Performance Excellence; Corey Hughley, Senior Director, Information Technology; Lindsay Jorgenson, Director, Business Intelligence; Leanne Lasher, Senior Director, 
+Research and Business Intelligence; Emily Peterman, Senior Director, Evaluation; Heidi Satter, Director, Web and Data Solutions; and Suja Shunmugavelu, Senior Director, Engagement." width=80%}
+</center>
+
 
 ##  {#bi-what-2 data-menu-title="BI at ASTHO"}
 [**Business Intelligence** \| Core Components of Business Intelligence]{.slide-header} <br><br><br>
@@ -76,39 +87,39 @@
 
 :::{.r-stack}
 :::{.fragment .fade-in-then-out}
-![](images/step1.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=20}
+![](images/step1.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=50}
 [**Coordinated data collection and documented datasets**]{.text-c}
 :::
 
 <br>
 
 :::{.fragment .fade-in-then-out}
-![](images/step2.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=20}
+![](images/step2.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=50}
 [**Integrated and centrally housed datasets**]{.text-c}
 :::
 
 <br>
 
 :::{.fragment .fade-in-then-out}
-![](images/step3.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=20}
+![](images/step3.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=50}
 [**Key metrics that are used to answer operations and program questions**]{.text-c}
 :::
 
 
 :::{.fragment .fade-in-then-out}
-![](images/step4.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=20}
+![](images/step4.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=50}
 [**Use data science and analytics to uncover insights and predict needs**]{.text-c}
 :::
 
 :::{.fragment .fade-in-then-out}
-![](images/step5.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=20}
+![](images/step5.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=50}
 [**Use data science and analytics to uncover insights and predict needs**]{.text-c}
 :::
 
 <br>
 
 :::{.fragment .fade-in-then-out}
-![](images/step6.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=20}
+![](images/step6.png){fig-alt="icon of table with metadata fields that read source, title, creator, date, and rights" width=1200px .absolute top=160 left=50}
 [**Automated reports and dashboards that make insights accessible**]{.text-c}
 :::
 
@@ -156,36 +167,14 @@
 </center>
 
 
-##  {#bi-our-role-2 data-menu-title="BI at ASTHO"}
 
-[**Business Intelligence** \| The Role of Our Team]{.slide-header} <br><br><br>
-
-<br> <br> <br> <br> <br> <br> <br> <br>
-
-:::{.r-stack}
-
-:::{.fragment .fade-in-then-out}
-[Bring this work into alignment by developing a comprehensive data strategy]{.text-c}
-:::
-
-:::{.fragment .fade-in}
-[Support...?]{.text-c}
-:::
-:::
+##  {#bi-our-roadmap data-menu-title="BI Roadmap"}
 
 
-
-
-##  {#bi-workgroup data-menu-title="The Data Workgroup"}
-
-[**Business Intelligence** \| Data Workgroup]{.slide-header} <br><br>
+[**Business Intelligence** \| Roadmap]{.slide-header} <br><br>
 
 <center>
-![](images/steering_committee.png){fig-alt="headshots of all staff on the data steering committee, including: Kyle Bogart, Senior Director, Performance Excellence; Corey Hughley, Senior Director, Information Technology; Lindsay Jorgenson, Director, Business Intelligence; Leanne Lasher, Senior Director, 
-Research and Business Intelligence; Emily Peterman, Senior Director, Evaluation; Heidi Satter, Director, Web and Data Solutions; and Suja Shunmugavelu, Senior Director, Engagement." width=80%}
+![](images/roadmap.png){fig-alt="figure showing the BI roadmap." width=70%}
 </center>
 
 
-
-##  {#next-discovery data-menu-title="Discovery"}
-[**Business Intelligence** \| Discovery]{.slide-header} <br><br><br>
