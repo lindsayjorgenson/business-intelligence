@@ -1,7 +1,7 @@
 <!-- What is BI Section -->
 
 #  {#bi .background-title data-menu-title="Business Intelligence at ASTHO"}
-[The who and what of business intelligence]{.section-header}
+[The who and what of <br> business intelligence]{.section-header}
 
 
 ##  {#bi-who data-menu-title="Who Am I?"}

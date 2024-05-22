@@ -19,6 +19,7 @@ format:
 ---
 
 ##  {#astho-bi data-menu-title="Business Intelligence at ASTHO"}
+![](images/table.gif){fig-alt="An animation of two tables merging, with a pie graph and info icon popping up after the tables merge." .absolute left=150 top=0 width=80%}
 
 [What can Business Intelligence do for you?]{.title} [May 2024]{.subtitle-sm}
 
