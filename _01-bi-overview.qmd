@@ -79,8 +79,22 @@ Research and Business Intelligence; Emily Peterman, Senior Director, Evaluation;
 </center>
 
 
+##  {#bi-our-role data-menu-title="What is Business Intelligence?"}
+
+[**Business Intelligence** \| The Role of Our Team]{.slide-header} 
+
+<br><br><br><br><br><br>
+
+<center>
+:::{class="pad"}
+[The business intelligence team exists to **align** and **grow** ASTHO's business intelligence work.]{.text-c-large}
+:::
+</center>
+
+
+
 ##  {#bi-what-2 data-menu-title="BI at ASTHO"}
-[**Business Intelligence** \| Core Components of Business Intelligence]{.slide-header} <br><br><br>
+[**Business Intelligence** \| Fully Actualized Business Intelligence]{.slide-header} <br><br><br>
 
 <center>
 <br><br><br><br><br><br><br><br>
@@ -153,18 +167,6 @@ Research and Business Intelligence; Emily Peterman, Senior Director, Evaluation;
 :::
 :::
 
-
-##  {#bi-our-role data-menu-title="What is Business Intelligence?"}
-
-[**Business Intelligence** \| The Role of Our Team]{.slide-header} 
-
-<br><br><br><br><br><br>
-
-<center>
-:::{class="pad"}
-[The business intelligence team exists to **align** and **grow** ASTHO's business intelligence work.]{.text-c-large}
-:::
-</center>
 
 
 
