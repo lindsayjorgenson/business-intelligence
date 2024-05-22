@@ -1,0 +1,4 @@
+- source: business-intelligence.qmd
+  netlify:
+    - id: aa3352c2-9413-4ff7-8393-f546eb288149
+      url: 'https://euphonious-capybara-4fcf18.netlify.app'

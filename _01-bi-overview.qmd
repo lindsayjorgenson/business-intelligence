@@ -174,7 +174,7 @@ Research and Business Intelligence; Emily Peterman, Senior Director, Evaluation;
 [**Business Intelligence** \| Roadmap]{.slide-header} <br><br>
 
 <center>
-![](images/roadmap.png){fig-alt="figure showing the BI roadmap." width=70%}
+![](images/roadmap.png){fig-alt="A visual roadmap displaying the 6 steps of the Business Intelligence roadmap through discovery, development and implementation." width=85%}
 </center>
 
 

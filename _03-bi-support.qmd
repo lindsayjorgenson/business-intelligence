@@ -50,7 +50,7 @@
 [**Support** \| Dashboards]{.slide-header} <br><br>
 
 <center>
-![](images/process.png){fig-alt="figure showing the dashboard process." width=70%}
+![](images/process.png){fig-alt="A visual flow chart displaying the 5 steps of the dashboard development process, with mentions of where two current products are at in the process." width=70%}
 </center>
 
 
