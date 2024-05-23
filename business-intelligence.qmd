@@ -14,8 +14,7 @@ format:
     include-in-header:
       text: <script type="text/javascript" src="script.js"></script>
     resources: 
-    - "*.mp3"
-    - "*.m4a"
+    - sound/song.m4a
 ---
 
 ##  {#astho-bi data-menu-title="Business Intelligence at ASTHO"}

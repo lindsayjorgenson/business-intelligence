@@ -8,29 +8,12 @@
 
 [**Business Intelligence** \| Who Am I?]{.slide-header} <br><br><br>
 
-::: columns
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="40%"}
+:::{.absolute left=400 top=50}
 ```{=html}
-<iframe src="https://giphy.com/embed/QYjlZfTzpo9l3x7ltU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/QYjlZfTzpo9l3x7ltU" width="580" height="580" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ```
 :::
 
-::: {.column width="10%"}
-:::
-
-::: {.column width="40%"}
-```{=html}
-<iframe src="https://giphy.com/embed/SUtvUAbKeBXiVdqCMB" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-```
-:::
-
-::: {.column width="5%"}
-:::
-:::
 
 
 ##  {auto-animate="true" #bi-who-2 data-menu-title="Who are we?"}
@@ -83,11 +66,11 @@ Research and Business Intelligence; Emily Peterman, Senior Director, Evaluation;
 
 [**Business Intelligence** \| The Role of Our Team]{.slide-header} 
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <center>
 :::{class="pad"}
-[The business intelligence team exists to **align** and **grow** ASTHO's business intelligence work.]{.text-c-large}
+[The business intelligence team exists to **align** and **grow** ASTHO's business intelligence work and provide **subject-matter expertise** in the process.]{.text-c-large}
 :::
 </center>
 
