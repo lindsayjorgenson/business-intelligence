@@ -77,7 +77,7 @@ Research and Business Intelligence; Emily Peterman, Senior Director, Evaluation;
 
 
 ##  {#bi-what-2 data-menu-title="BI at ASTHO"}
-[**Business Intelligence** \| Fully Actualized Business Intelligence]{.slide-header} <br><br><br>
+[**Business Intelligence** \| A Fully Actualized Business Intelligence Strategy]{.slide-header} <br><br><br>
 
 <center>
 <br><br><br><br><br><br><br><br>
@@ -123,34 +123,6 @@ Research and Business Intelligence; Emily Peterman, Senior Director, Evaluation;
 :::
 
 </center>
-
-##  {#bi-assumptions data-menu-title="BI at ASTHO"}
-[**Business Intelligence** \| Assumptions for Success]{.slide-header} <br><br>
-
-:::{class="pad-10"}
-
-:::{.fragment .fade-in-then-semi-out}
-* A data-rich culture that values data-driven decision making 
-:::
-
-:::{.fragment .fade-in-then-semi-out}
-* Staff with technical skills spanning computer science, data science, data visualization, evaluation, data utilization, (+) 
-:::
-
-:::{.fragment .fade-in-then-semi-out}
-* Capacity to build a sustainable data infrastructure 
-:::
-
-:::{.fragment .fade-in-then-semi-out}
-* Leadership and staff buy-in and cross-agency utilization
-:::
-
-:::{.fragment .fade-in}
-* **A team to lead this effort in a deeply collaborative way**
-:::
-:::
-
-
 
 
 ##  {#bi-our-roadmap data-menu-title="BI Roadmap"}
